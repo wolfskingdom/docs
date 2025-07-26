@@ -73,7 +73,7 @@ This isn’t a petting zoo, it’s a community.
 You can request to have all user data wiped from The Kingdom at any time.
 - 🛡️ Permanent bans automatically trigger full data removal from logs and tickets.
 
-To request deletion: DM the King directly on Discord.
+To request deletion: DM directly on Discord -> https://discord.com/users/wolfdad666
 
 ---
 
@@ -82,4 +82,4 @@ To request deletion: DM the King directly on Discord.
 
 Questions? Concerns? Want to suggest a change or request data removal?
 
-DM **@wolfdad666** directly on Discord.
+DM directly on Discord -> https://discord.com/users/wolfdad666
