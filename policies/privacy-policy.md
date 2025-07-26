@@ -1,4 +1,3 @@
-
 # The Wolf's Kingdom | Privacy Policy 🔒
 The Wolf's Kingdom is an Age-Verified (21+) Kink/Sex-Positive, Bator-Inclusive Discord Community  
 https://discord.gg/wolfking
