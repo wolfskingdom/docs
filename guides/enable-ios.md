@@ -10,7 +10,7 @@
 
 ## TL;DR (1-minute fix)
 
-- **On iOS (Safari/Chrome)**: open **discord.com** → <kbd>☰</kbd> → <kbd>⚙︎ User Settings</kbd> → **Content & Social** → toggle **Allow access to age-restricted servers on iOS** ✅  
+- **On iOS (Safari/Chrome)**: open **discord.com/login** → Login  → <kbd>☰</kbd> → <kbd>⚙︎ User Settings</kbd> → **Content & Social** → toggle **Allow access to age-restricted servers on iOS** ✅  
 - **On Desktop**: <kbd>⚙︎ User Settings</kbd> → **Content & Social** → toggle **Allow access to age-restricted servers on iOS** ✅
 
 ---
@@ -19,8 +19,8 @@
 
 > ℹ️ You **can’t** change this setting inside the iOS app itself — you must use a **mobile web browser**.
 
-1. **GO TO** **[discord.com](https://discord.com/)** in your browser.  
-2. At the top, **TAP** **Open Discord** to launch the web app.  
+1. **GO TO** **[discord.com/login](https://discord.com/login)** in your browser and log in
+2. At the top, **TAP** **Open Discord** to launch the web app if it doesn't already.  
 3. **TAP** the **hamburger menu** <kbd>☰</kbd> (top-left).  
    - You’ll see your **User Panel** with a **gear icon**.  
 4. **TAP** <kbd>⚙︎</kbd> **User Settings**.  
@@ -54,4 +54,4 @@
 
 ---
 
-*Last updated: 2025-10-01 15:45(PT)*
+*Last updated: 2025-10-01 19:48(PT)*
