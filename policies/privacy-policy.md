@@ -15,7 +15,7 @@ Privacy is of the utmost importance. We have a duty to protect the pack and that
 ### Who Will Verify Me?
 Only the @King (Server Owner) handles AV.
 - 🔐 No one else will ever have access to your AV ticket. 
-- 🗑️ And it is **deleted** after you become a Resident.
+- 🗑️ Your AV ticket is **deleted** after you become a Resident.
 
 ### What Info Is Required?
 We ask to only see what's absolutely necessary to verify your age:
