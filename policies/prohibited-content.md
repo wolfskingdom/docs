@@ -35,6 +35,8 @@ Some things are **never allowed** inside or outside the Kingdom walls.
 
 - 🗣️ **No blackmail, doxxing, or exposure without explicit consent.**
 
+- 🤖 **No AI generated content.**
+
 - 🔇 **Only verified Residents may appear in voice/video.**  
   _No unverified guests._
 
