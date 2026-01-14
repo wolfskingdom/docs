@@ -69,6 +69,26 @@ This isn’t a petting zoo, it’s a community.
 ---
 
 
+## 🤖 Aritifical Intelligence (AI) Usage 🤖 
+
+### AI-generated content
+- Content generated with LLM tools is considered **Prohibited Content**
+- **NOT** permitted in **The Kingdom** under **Rule #1**
+
+### LLM Training
+- All participants explicitly **DO NOT CONSENT** to the training of LLMs using **The Kingdom** 
+- **NOT** permitted in **The Kingdom** under **Rule #3**
+
+**FULL DISCLOSURE**: ***DISCORD-ASSOCIATED** BOTS KNOWN TO BE USING AI FOR TRAINING HAVE ALREADY BEEN BANNED*
+> ***Prior to public launch***, we had received a list of accounts that were known or suspected of using server data to train LLMs. We banned every account known that practices this and will continue to take this proactive approach to protecting our sanctuary. 
+
+By joining **The Kingdom**, you agree to participate in an **AI-Free**, **human-first** community.
+> *Known AI bots have been and must continue to be reported to Admins so they can be banished from **The Kingdom**! If you come across one, report it!*
+
+
+---
+
+
 ## 🗑️ Deletion & GDPR Compliance 🗑️ 
 
 You can request to have all user data wiped from The Kingdom at any time.
